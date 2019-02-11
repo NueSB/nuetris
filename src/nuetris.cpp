@@ -332,7 +332,7 @@ void hold()
   }
   ppx = 3;
   ppy = -2;
-  holdPiece = curPiece;
+  holdPiece = tmp;
 }
 
 void clearLine(int sy)
